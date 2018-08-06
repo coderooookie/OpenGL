@@ -29,6 +29,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7A9198AB2118A107007665C3 /* vertexShader.glsl */ = {isa = PBXFileReference; lastKnownFileType = text; path = vertexShader.glsl; sourceTree = "<group>"; };
 		7AC1EE67210C700700D0876E /* OpenGL_1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OpenGL_1; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AC1EE6A210C700700D0876E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		7AC1EE71210C835C00D0876E /* glad.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = glad.c; sourceTree = "<group>"; };
@@ -76,6 +77,7 @@
 			children = (
 				7AC1EE71210C835C00D0876E /* glad.c */,
 				7AC1EE6A210C700700D0876E /* main.cpp */,
+				7A9198AB2118A107007665C3 /* vertexShader.glsl */,
 			);
 			path = OpenGL_1;
 			sourceTree = "<group>";
