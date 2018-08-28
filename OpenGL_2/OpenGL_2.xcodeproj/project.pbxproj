@@ -40,6 +40,7 @@
 		7A8DB60F2121ECF700B275CE /* shader.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = shader.cpp; sourceTree = "<group>"; };
 		7A8DB6112121F02C00B275CE /* shader.vs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.vs; sourceTree = "<group>"; };
 		7A8DB6122121F03A00B275CE /* shader.fs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = shader.fs; sourceTree = "<group>"; };
+		7ABD045E2135B63700DCF244 /* camera.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = camera.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				7A8DB60F2121ECF700B275CE /* shader.cpp */,
 				7A8DB6112121F02C00B275CE /* shader.vs */,
 				7A8DB6122121F03A00B275CE /* shader.fs */,
+				7ABD045E2135B63700DCF244 /* camera.h */,
 			);
 			path = OpenGL_2;
 			sourceTree = "<group>";
