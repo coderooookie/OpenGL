@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/contrib/gtest/src/gtest-all.cc \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-internal.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-port.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-port-arch.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/custom/gtest-port.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest-message.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-string.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-filepath.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-type-util.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest-death-test.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-death-test-internal.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest-param-test.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-param-util.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-linked_ptr.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest-printers.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/custom/gtest-printers.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/gtest-param-util-generated.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest_prod.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest-test-part.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest-typed-test.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest_pred_impl.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest.cc \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/internal/custom/gtest.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/include/gtest/gtest-spi.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest-internal-inl.h \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest-death-test.cc \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest-filepath.cc \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest-port.cc \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest-printers.cc \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest-test-part.cc \
+  /Users/hongshubin/Desktop/OpenGL/assimp-4.1.0/test/../contrib/gtest/src/gtest-typed-test.cc
