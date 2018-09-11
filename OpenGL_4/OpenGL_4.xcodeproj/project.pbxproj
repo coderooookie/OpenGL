@@ -30,6 +30,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		7A3487B821481B2900113FBD /* camera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = camera.h; path = ../../OpenGL_2/OpenGL_2/camera.h; sourceTree = "<group>"; };
+		7A3487B921481BAA00113FBD /* model_loading.fs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = model_loading.fs; sourceTree = "<group>"; };
+		7A3487BA21481BBD00113FBD /* model_loading.vs */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = model_loading.vs; sourceTree = "<group>"; };
 		7A4C69FD2146CE680054D95A /* libassimp.4.1.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libassimp.4.1.0.dylib; path = OpenGL_4/libassimp.4.1.0.dylib; sourceTree = "<group>"; };
 		7A4C69FF2146CECD0054D95A /* model.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = model.h; sourceTree = "<group>"; };
 		7AF629BA2145817A0070C420 /* OpenGL_4 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = OpenGL_4; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -80,12 +83,15 @@
 		7AF629BC2145817A0070C420 /* OpenGL_4 */ = {
 			isa = PBXGroup;
 			children = (
+				7A3487B821481B2900113FBD /* camera.h */,
 				7AF629D1214594130070C420 /* glad.c */,
 				7AF629CF214593CA0070C420 /* shader.cpp */,
 				7AF629CE214593CA0070C420 /* shader.h */,
 				7AF629BD2145817A0070C420 /* main.cpp */,
 				7AF629CD214593370070C420 /* mesh.h */,
 				7A4C69FF2146CECD0054D95A /* model.h */,
+				7A3487B921481BAA00113FBD /* model_loading.fs */,
+				7A3487BA21481BBD00113FBD /* model_loading.vs */,
 			);
 			path = OpenGL_4;
 			sourceTree = "<group>";
